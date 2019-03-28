@@ -52,7 +52,7 @@
     },
     "require": {
         "php": ">=7.1.0",
-        "laravel/framework": "5.7.*|5.8.*",
+        "laravel/framework": "*",
         "paragonie/random_compat": "^2.0"
     },
     "require-dev": {
@@ -69,7 +69,7 @@
             "src/helpers.php"
         ]
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
