@@ -42,14 +42,6 @@
             "role": "Developer"
         }
     ],
-    "replace": {
-        "delatbabel/elocryptfive": "*",
-        "dtisgodsson/elocrypt": "*"
-    },
-    "conflict": {
-        "delatbabel/elocryptfive": "*",
-        "dtisgodsson/elocrypt": "*"
-    },
     "require": {
         "php": ">=7.1.0",
         "laravel/framework": "*",
